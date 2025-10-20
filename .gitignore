@@ -1,0 +1,15 @@
+Library/
+Temp/
+Obj/
+Builds/
+Logs/
+UserSettings/
+_OUTPUT/
+
+.vs
+.idea
+
+*.sln
+*.csproj
+*.tmp
+*.log
